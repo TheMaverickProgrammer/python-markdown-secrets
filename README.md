@@ -3,6 +3,7 @@ A [Python-Markdown][PYTHON_MARKDOWN] preprocessor extension to convert content w
 
 # Installation
 ```shell
-pip install git+https://github.com/TheMaverickProgrammer/python-markdown-secrets.git```
+pip install git+https://github.com/TheMaverickProgrammer/python-markdown-secrets.git
+```
 
-[PYTHON_MARKDOWN]: github.com/waylan/Python-Markdown 
+[PYTHON_MARKDOWN]: https://github.com/waylan/Python-Markdown 
