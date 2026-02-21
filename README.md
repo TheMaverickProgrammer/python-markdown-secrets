@@ -6,4 +6,9 @@ A [Python-Markdown][PYTHON_MARKDOWN] preprocessor extension to convert content w
 pip install git+https://github.com/TheMaverickProgrammer/python-markdown-secrets.git
 ```
 
+# Testing
+1. Install `pytest` via `pip install pytest`.
+1. Enter the `test` directory.
+1. Run `python -m pytest`. 
+
 [PYTHON_MARKDOWN]: https://github.com/waylan/Python-Markdown 
