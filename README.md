@@ -5,7 +5,7 @@ View this package on [PyPi][PYPI].
 
 # Installation
 ```shell
-pip install git+https://github.com/TheMaverickProgrammer/python-markdown-secrets.git
+pip install mkdsecrets
 ```
 
 # Testing
@@ -14,4 +14,4 @@ pip install git+https://github.com/TheMaverickProgrammer/python-markdown-secrets
 1. Run `python -m pytest`. 
 
 [PYTHON_MARKDOWN]: https://github.com/waylan/Python-Markdown
-[PYPI]: https://github.com/TheMaverickProgrammer/python-markdown-secrets
+[PYPI]: https://pypi.org/project/mkdsecrets/
